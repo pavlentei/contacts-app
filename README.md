@@ -39,26 +39,6 @@
 4. Запустите проект с помощью `yarn dev`.
 5. Откройте браузер и перейдите по адресу `http://localhost:3000`.
 
-📦 project-name
- ┣ 📂src
- ┃ ┣ 📂assets
- ┃ ┃ ┣ 📂images
- ┃ ┃ ┗ 📂styles
- ┃ ┣ 📂components
- ┃ ┃ ┣ 📄Component1.vue
- ┃ ┃ ┗ 📄Component2.vue
- ┃ ┣ 📂views
- ┃ ┃ ┣ 📄Home.vue
- ┃ ┃ ┗ 📄About.vue
- ┃ ┣ 📄App.vue
- ┃ ┗ 📄main.ts
- ┣ 📂public
- ┃ ┣ 📄index.html
- ┃ ┗ 🖼️favicon.ico
- ┣ 📄.gitignore
- ┣ 📄package.json
- ┣ 📄vite.config.ts
- ┗ 📄README.md
 
 ## Автор
 
